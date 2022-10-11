@@ -1,0 +1,12 @@
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\bin\Debug\net6.0\Phonepad.deps.json
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\bin\Debug\net6.0\Phonepad.dll
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\bin\Debug\net6.0\Phonepad.pdb
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\Phonepad.csproj.AssemblyReference.cache
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\Phonepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\Phonepad.AssemblyInfoInputs.cache
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\Phonepad.AssemblyInfo.cs
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\Phonepad.csproj.CoreCompileInputs.cache
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\Phonepad.dll
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\refint\Phonepad.dll
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\Phonepad.pdb
+C:\Users\Tanno\source\repos\Oldphone\Oldphone\Phonepad\obj\Debug\net6.0\ref\Phonepad.dll
